@@ -62,30 +62,18 @@ Blockchain-based verification system for issuing and validating digital credenti
 
 ---
 
-### 🤖 IGVC Robotics Electronics
-Electronics subsystem contributor for autonomous ground vehicle competition.
-
-- PCB design
-- CAN Bus systems
-- Embedded power distribution
-- Sensor integration
-
----
-
 ## 🧪 Currently Working On
 
 - ⚙️ Robotics + Embedded Systems  
-- 🧠 AI-assisted productivity tools  
-- 🐚 Krabby Lifestyle Assistant  
-- 📈 Engineering portfolio expansion  
+- 🧠 AI-assisted productivity tools
+- TOD an AI powered study assistant - using jetson nano SDK. 
+- 📈 Engineering portfolio expansion
+- repurposing digital credential registry into a full stack Dapp for business to issue and validate digital credentials.
 
 ---
 
 ## 📫 Connect With Me
-
-- 💼 LinkedIn: *(add link)*
-- 🌐 Portfolio: *(add when ready)*
-- 📧 Email: *(optional)*
+- 📧 Email: soham.ranjeet@gmail.com
 
 ---
 
