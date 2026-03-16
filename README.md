@@ -8,8 +8,25 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,react,nodejs,docker,git,linux,arduino&perline=6"
-      alt="Skill icons for Java, Python, C, C++, JavaScript, TypeScript, React, Node.js, Docker, Git, Linux, and Arduino"
+      src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,html,css,react,nodejs,docker,git,github,linux,arduino,mongodb,mysql,postman,vscode&perline=10"
+      alt="Skill icons for Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS, React, Node.js, Docker, Git, GitHub, Linux, Arduino, MongoDB, MySQL, Postman, and VS Code"
     />
   </a>
 </div>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/S0hamJosh1/S0hamJosh1/pacman/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/S0hamJosh1/S0hamJosh1/pacman/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/S0hamJosh1/S0hamJosh1/pacman/pacman-contribution-graph.svg"
+    >
+  </picture>
+</p>
