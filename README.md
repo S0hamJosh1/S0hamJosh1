@@ -5,14 +5,18 @@
   </picture>
 </p>
 
+<br />
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,html,css,react,nodejs,docker,git,github,linux,arduino,mongodb,mysql,postman,vscode&perline=10"
-      alt="Skill icons for Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS, React, Node.js, Docker, Git, GitHub, Linux, Arduino, MongoDB, MySQL, Postman, and VS Code"
+      src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,html,css,react,nodejs,docker,git,github,linux,arduino,mongodb,mysql,postman,vscode,express&perline=10"
+      alt="Skill icons for Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS, React, Node.js, Docker, Git, GitHub, Linux, Arduino, MongoDB, MySQL, Postman, VS Code, and Express"
     />
   </a>
 </div>
+
+<br />
 
 <p align="center">
   <picture>
