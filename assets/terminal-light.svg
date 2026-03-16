@@ -81,7 +81,7 @@
   </text>
 
   <text x="770" y="168">
-    <tspan x="770" y="168" class="heading">soham@rutgers ------------------------------------------------------</tspan>
+    <tspan x="770" y="168" class="heading">soham@rutgers -----------------------------------------------</tspan>
 
     <tspan x="770" y="218" class="muted">. </tspan><tspan class="label">school</tspan><tspan class="muted">................. </tspan><tspan class="value">Rutgers University</tspan>
     <tspan x="770" y="254" class="muted">. </tspan><tspan class="label">track</tspan><tspan class="muted">.................. </tspan><tspan class="value">CS, ECE, Robotics</tspan>
@@ -92,13 +92,13 @@
     <tspan x="770" y="418" class="muted">. </tspan><tspan class="label">core.lang</tspan><tspan class="muted">.............. </tspan><tspan class="value">Java, Python, C, JavaScript, TypeScript</tspan>
     <tspan x="770" y="454" class="muted">. </tspan><tspan class="label">core.tools</tspan><tspan class="muted">............. </tspan><tspan class="value">React, Node.js, STM32, Docker</tspan>
     <tspan x="770" y="490" class="muted">. </tspan><tspan class="label">edge.stack</tspan><tspan class="muted">............. </tspan><tspan class="value">Ethereum, Ethers.js, Git</tspan>
-    <tspan x="770" y="526" class="muted">. </tspan><tspan class="label">now.building</tspan><tspan class="muted">.......... </tspan><tspan class="value">TOD study assistant on Jetson Nano</tspan>
+    <tspan x="770" y="526" class="muted">. </tspan><tspan class="label">now.building</tspan><tspan class="muted">.......... </tspan><tspan class="value">TOD study assistant on Jetson</tspan>
     <tspan x="770" y="562" class="muted">. </tspan><tspan class="label">also.building</tspan><tspan class="muted">......... </tspan><tspan class="value">Hermes Training OS</tspan>
-    <tspan x="770" y="598" class="muted">. </tspan><tspan class="label">refactor</tspan><tspan class="muted">............... </tspan><tspan class="value">Credential Registry into a business dApp</tspan>
+    <tspan x="770" y="598" class="muted">. </tspan><tspan class="label">refactor</tspan><tspan class="muted">............... </tspan><tspan class="value">Credential Registry into a dApp</tspan>
     <tspan x="770" y="634" class="muted">. </tspan><tspan class="label">exploring</tspan><tspan class="muted">.............. </tspan><tspan class="value">robotics, embedded systems, AI tools</tspan>
 
-    <tspan x="770" y="694" class="heading">- contact -----------------------------------------------------------</tspan>
+    <tspan x="770" y="694" class="heading">- contact ----------------------------------------------------</tspan>
     <tspan x="770" y="730" class="muted">. </tspan><tspan class="label">email</tspan><tspan class="muted">.................. </tspan><tspan class="value">soham.ranjeet@gmail.com</tspan>
-    <tspan x="770" y="766" class="muted">. </tspan><tspan class="label">availability</tspan><tspan class="muted">........... </tspan><tspan class="value">open to engineering projects and collaboration</tspan>
+    <tspan x="770" y="766" class="muted">. </tspan><tspan class="label">availability</tspan><tspan class="muted">........... </tspan><tspan class="value">open to projects and collaboration</tspan>
   </text>
 </svg>
