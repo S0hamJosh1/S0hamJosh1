@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="840" viewBox="0 0 1500 840">
+  <style>
+    text {
+      font-family: Consolas, "Cascadia Mono", Menlo, Monaco, monospace;
+      white-space: pre;
+    }
+
+    .page { fill: #0d1117; }
+    .frame { fill: #0d1117; stroke: #30363d; stroke-width: 2; }
+    .panel { fill: #161b22; stroke: #30363d; stroke-width: 2; }
+    .repo { fill: #f0f6fc; font-size: 22px; font-weight: 700; }
+    .ascii { fill: #f0f6fc; font-size: 10.5px; }
+    .heading { fill: #f0f6fc; font-size: 18px; font-weight: 700; }
+    .label { fill: #ffb86c; font-size: 16px; }
+    .value { fill: #79c0ff; font-size: 16px; }
+    .muted { fill: #8b949e; font-size: 16px; }
+  </style>
+
+  <rect class="page" width="1500" height="840" rx="24" />
+  <rect class="frame" x="26" y="18" width="1448" height="804" rx="14" />
+  <rect class="panel" x="76" y="110" width="1348" height="676" rx="24" />
+
+  <text x="78" y="74" class="repo">S0hamJosh1 / README.md</text>
+
+  <text class="ascii">
+    <tspan x="90" y="165">                               ...::--===+++************+++===--::...                               </tspan>
+    <tspan x="90" y="176">                        ..:-=+**####################################**+=-:...                       </tspan>
+    <tspan x="90" y="187">.-*******++++:.   ...-+*####################################################*+-:..   .:++++*******=.</tspan>
+    <tspan x="90" y="198">.:###########*. .:+*#############################################################*-...+###########-.</tspan>
+    <tspan x="90" y="209">..+###########= .:*###############################################################-. -###########*:.</tspan>
+    <tspan x="90" y="220"> .=############. .=######################+-::..........::-+*#####################+...*###########+. </tspan>
+    <tspan x="90" y="231"> .:*###########* .:+###################-..                ..:*##################*-. =############-. </tspan>
+    <tspan x="90" y="242"> .:+############- .-####################*-.              .-*####################=. :############*:. </tspan>
+    <tspan x="90" y="253">  .=############*. .:+#####################*-.        .-*#####################+:. .+############+.  </tspan>
+    <tspan x="90" y="264">   -#############+..    .=*####################+:..:+#####################+:.   ..=#############=.  </tspan>
+    <tspan x="90" y="275">   :*#####+-+#######*=:... ..=*#######################################+:. ....=*#######+-+#####*-   </tspan>
+    <tspan x="90" y="286">   .=#####*-. .:+*#######+:... ..-*##############################*=.. ...:=#######*+:. .:*#####+.   </tspan>
+    <tspan x="90" y="297">   .-*#####*-:.. ..:+*#######+:... ..-*######################*=.. ...:=*#######+-.. ...-*######=.   </tspan>
+    <tspan x="90" y="308">    :*##########-:... .:+*#######+-... ..-+*#############*=.. ...:+#######*+-. ...:-*#########*:    </tspan>
+    <tspan x="90" y="319">    .=#############*=:.. ..:+*#######=  ..  .-+*####*+-.. ..  -#######*+-.. ..:-+#############+.    </tspan>
+    <tspan x="90" y="330">    .-######-.-+*######*=:... .-*####*. .-=:..  .:-.. ..:--. .+#####-.  ..:-*#######+=:-######=.    </tspan>
+    <tspan x="90" y="341">     .*#####+.. ..-+*######*=:..-#####: .-###*=:....:-+###=. .#####=..:-+#######+-:....=######:     </tspan>
+    <tspan x="90" y="352">     .+#######+=:.. ..-+*######*+#####= .:*######**######*:. :#####++#######+=:. ...-+*######*.     </tspan>
+    <tspan x="90" y="363">      -###########+-:.. ..-+*##########. .=##############+.  +##########+-:.....-+*##########=.     </tspan>
+    <tspan x="90" y="374">      .+##############+=:.. ..-=#######. .-##############=. .*######+-:.  ..-+*#############*:      </tspan>
+    <tspan x="90" y="385">        :=################+-:.. .-#####-  :*############*-. :#####=.. ..-+*###############+:        </tspan>
+    <tspan x="90" y="396">         ..-*################*+=..+####*  .+############+.  =####*:.-+*################*-.. .       </tspan>
+    <tspan x="90" y="407">       :+:. .:+########################*. .=############+.  *########################+:. .:+:       </tspan>
+    <tspan x="90" y="418">       .##*=....-*######################:  :*##########*:  .*######################=....-*##:       </tspan>
+    <tspan x="90" y="429">       .#####+: ..:+####################=  .*##########*.  -####################+:.. .+#####.       </tspan>
+    <tspan x="90" y="440">       .*######:   ......................  .=##########+.  ......................   :######*.       </tspan>
+    <tspan x="90" y="451">        +######*                            =##########=.                           +######*        </tspan>
+    <tspan x="90" y="462">        =#######-                           =##########=                           :#######+        </tspan>
+    <tspan x="90" y="473">        -#######*.                          =##########=                          .+#######=        </tspan>
+    <tspan x="90" y="484">        :########-.                    ...  =##########=  ...                    .:*#######-        </tspan>
+    <tspan x="90" y="495">        .#########+:..               ..=#=  =##########=  =#+:.               ..:+#########:        </tspan>
+    <tspan x="90" y="506">        .*###########*-..         ..:*###=  =##########=  =####-..         ..:*############:        </tspan>
+    <tspan x="90" y="517">        .+##############*-:.    ..-*#####=  =##########=  =######=:.    ..-*##############*.        </tspan>
+    <tspan x="90" y="528">        .+##################=. .=########=  =##########=  =########+. .-##################+.        </tspan>
+    <tspan x="90" y="539">        .=##################*. .*########=  =##########=  =#########. .+##################+.        </tspan>
+    <tspan x="90" y="550">        .-##################*. .*########=  =##########=  =#########. .+##################=.        </tspan>
+    <tspan x="90" y="561">        .-##################*. .*########=  =##########=  =#########. .+##################-.        </tspan>
+    <tspan x="90" y="572">        .:*#################*. .*########=  =##########=  =#########. .+##################-.        </tspan>
+    <tspan x="90" y="583">        .:*#################*. .*########=  =##########=  =#########. .+#################*:.        </tspan>
+    <tspan x="90" y="594">        ..+#################*. .*########=  =##########=  =#########. .+#################*:.        </tspan>
+    <tspan x="90" y="605">        ..+#################*. .*########=  =##########=  =#########. .+#################+..        </tspan>
+    <tspan x="90" y="616">         .=#################*. .*########=  ............  =#########. .+#################+.         </tspan>
+    <tspan x="90" y="627">         .=#################*. .*########=................=#########. .+#################=.         </tspan>
+    <tspan x="90" y="638">         .-#################*. .*###################################. .+#################=.         </tspan>
+    <tspan x="90" y="649">         .-#################*. .*###################################. .+#################-.         </tspan>
+    <tspan x="90" y="660">         .:*################*. .*#######*-:::::::::::::::::+########. .+################*-.         </tspan>
+    <tspan x="90" y="671">          :*################*. .*#######=                  -*#######. .+################*:          </tspan>
+    <tspan x="90" y="682">          ..:+##############*. .*#######: .+############+. .*#######. .+##############+-..          </tspan>
+    <tspan x="90" y="693">               .:=*#########*. .*######* .:*############*-. +#######. .+#########*=:.               </tspan>
+    <tspan x="90" y="704">                   ..-+*####*. .*######= .-##############=. -#######. .+####*+-..                   </tspan>
+    <tspan x="90" y="715">                        .:=*+. .*######. .=##############+...#######. .+*+:..                       </tspan>
+    <tspan x="90" y="726">                            .. .+######..:+##############*:. +#####*. ..                            </tspan>
+    <tspan x="90" y="737">                               ...-+*#= .-################=. :#*+-...                               </tspan>
+    <tspan x="90" y="748">                                     .. .=################+. ..                                     </tspan>
+    <tspan x="90" y="759">                                       ..=****************+:.                                       </tspan>
+  </text>
+
+  <text x="770" y="168">
+    <tspan x="770" y="168" class="heading">soham@rutgers ------------------------------------------------------</tspan>
+
+    <tspan x="770" y="218" class="muted">. </tspan><tspan class="label">school</tspan><tspan class="muted">................. </tspan><tspan class="value">Rutgers University</tspan>
+    <tspan x="770" y="254" class="muted">. </tspan><tspan class="label">track</tspan><tspan class="muted">.................. </tspan><tspan class="value">CS, ECE, Robotics</tspan>
+    <tspan x="770" y="290" class="muted">. </tspan><tspan class="label">mode</tspan><tspan class="muted">................... </tspan><tspan class="value">Developer, Engineer, Builder</tspan>
+    <tspan x="770" y="326" class="muted">. </tspan><tspan class="label">focus</tspan><tspan class="muted">.................. </tspan><tspan class="value">AI, embedded, full-stack</tspan>
+    <tspan x="770" y="362" class="muted">. </tspan><tspan class="label">mission</tspan><tspan class="muted">................ </tspan><tspan class="value">build real-world systems</tspan>
+
+    <tspan x="770" y="418" class="muted">. </tspan><tspan class="label">core.lang</tspan><tspan class="muted">.............. </tspan><tspan class="value">Java, Python, C, JavaScript, TypeScript</tspan>
+    <tspan x="770" y="454" class="muted">. </tspan><tspan class="label">core.tools</tspan><tspan class="muted">............. </tspan><tspan class="value">React, Node.js, STM32, Docker</tspan>
+    <tspan x="770" y="490" class="muted">. </tspan><tspan class="label">edge.stack</tspan><tspan class="muted">............. </tspan><tspan class="value">Ethereum, Ethers.js, Git</tspan>
+    <tspan x="770" y="526" class="muted">. </tspan><tspan class="label">now.building</tspan><tspan class="muted">.......... </tspan><tspan class="value">TOD study assistant on Jetson Nano</tspan>
+    <tspan x="770" y="562" class="muted">. </tspan><tspan class="label">also.building</tspan><tspan class="muted">......... </tspan><tspan class="value">Hermes Training OS</tspan>
+    <tspan x="770" y="598" class="muted">. </tspan><tspan class="label">refactor</tspan><tspan class="muted">............... </tspan><tspan class="value">Credential Registry into a business dApp</tspan>
+    <tspan x="770" y="634" class="muted">. </tspan><tspan class="label">exploring</tspan><tspan class="muted">.............. </tspan><tspan class="value">robotics, embedded systems, AI tools</tspan>
+
+    <tspan x="770" y="694" class="heading">- contact -----------------------------------------------------------</tspan>
+    <tspan x="770" y="730" class="muted">. </tspan><tspan class="label">email</tspan><tspan class="muted">.................. </tspan><tspan class="value">soham.ranjeet@gmail.com</tspan>
+    <tspan x="770" y="766" class="muted">. </tspan><tspan class="label">availability</tspan><tspan class="muted">........... </tspan><tspan class="value">open to engineering projects and collaboration</tspan>
+  </text>
+</svg>
